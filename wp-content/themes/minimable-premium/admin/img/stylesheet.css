@@ -1,0 +1,83 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-10-2 {
+    width: 308px;
+    height: 72px;
+    background-position: -5px -5px;
+}
+
+.sprite-2-10-col {
+    width: 308px;
+    height: 72px;
+    background-position: -5px -87px;
+}
+
+.sprite-2-col {
+    width: 308px;
+    height: 72px;
+    background-position: -5px -169px;
+}
+
+.sprite-3-3-6-col {
+    width: 308px;
+    height: 72px;
+    background-position: -5px -251px;
+}
+
+.sprite-3-6-3-col {
+    width: 308px;
+    height: 72px;
+    background-position: -5px -333px;
+}
+
+.sprite-3-9-col {
+    width: 308px;
+    height: 72px;
+    background-position: -5px -415px;
+}
+
+.sprite-3-col {
+    width: 308px;
+    height: 72px;
+    background-position: -5px -497px;
+}
+
+.sprite-4-8-col {
+    width: 308px;
+    height: 72px;
+    background-position: -323px -5px;
+}
+
+.sprite-4-col {
+    width: 308px;
+    height: 72px;
+    background-position: -323px -87px;
+}
+
+.sprite-6-3-3-col {
+    width: 308px;
+    height: 72px;
+    background-position: -323px -169px;
+}
+
+.sprite-6-col {
+    width: 308px;
+    height: 72px;
+    background-position: -323px -251px;
+}
+
+.sprite-8-4-col {
+    width: 308px;
+    height: 72px;
+    background-position: -323px -333px;
+}
+
+.sprite-9-3-col {
+    width: 308px;
+    height: 72px;
+    background-position: -323px -415px;
+}

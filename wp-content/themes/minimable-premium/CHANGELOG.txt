@@ -1,0 +1,292 @@
+
+
+	MINIMABLE PREMIUM
+
+	Created by Fedeweb - http://www.fedeweb.net
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 3.0 - 09 Nov / 2015
+
+	Added: slider background
+	Added: you can set a min-height for each section
+	Added: improve the way you insert shortcodes, layouts and now you can use 6 different predefined layouts
+	Added: in theme options you can add a light logo version
+	Updated: Minimable is fully compatible with Woocommerce 2.4.8
+	Updated: you can add video backrounds from YouTube
+	Updated: page settings completely redesigned
+	Updated: you can customize the font family for all heading fonts
+	Updated: you can customize colors for each bubble
+	Updated: featured image now is implemented also on default pages
+	Updated: WordPress gallery now works properly
+	Updated: FontAwesome icons to the latest version (4.4.0)
+	Updated: now you can choose to have a full bubbles section in page settings, not in Theme Options
+	Updated: you can remove the cart icon from the top bar
+	Updated: the documentation will be updated this week
+	Fixed: "Array" label on Portfolio section
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 2.1.2 - 28 Aug / 2015
+
+	A new important update is coming!
+	Fixed: checkboxes work properly
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 2.1.1 - 26 Aug / 2015
+
+	A new important update is coming!
+	Update: you can change the order of portfolio items (ASC and DESC)
+	Fixed: background option boxes order
+	Fixed: bubbles checkbox to show or hide bubbles
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 2.1 - 12 Jun / 2015
+
+	Added: background particles
+	Added: new theme option where you can customize the preloader
+	Added: message with required and recommended plugins
+	Updated: icon shortcode. Now you can add a title next to the icon
+	Updated: layout shortcode. You can put a column to the right
+	Updated: you can set the type of background (image, video or particles)
+	Updated: you can choose the type of overlay between a pattern or an overlay color
+	Updated: queryloader to the latest version
+	Updated: single team member layout
+	Updated: documentation
+	Fixed: completely debug the theme
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 2.0.1 - 31 May / 2015
+
+	A huge update is coming with great new features ;)
+	Updated: Minimable is compatible with the latest Woocommerce version (2.3.9)
+	Updated: Minimable is now compatible with bbpress and buddypress plugins
+	Updated: Font Awesome to the latest version (4.3)
+	Fixed: remove "Find Us" and "Contact Us" titles if they are empty
+	Fixed: video shortcode size now works
+	Fixed: child theme
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 2.0 - 19 Jan / 2015
+
+	There is a new premium version with a lot of new features. Take a look at the demo!
+	Added: woocommerce integration
+	Added: video backgrounds
+	Added: parallax effect to background images
+	Added: template product
+	Updated: you can keep the main font and change only the size
+	Updated: you can create multiple single pages
+	Updated: improve the support for WPML
+	Updated: you can add an overlay pattern to images and videos
+	Updated: theme options completely redesigned
+	Updated: you can set the height of the navbar and the logo
+	Updated: you can show the top bar from the top
+	Updated: you can hide the big logo and slogan from the bubbles section
+	Updated: the main font to the latest version. More supported languages
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.6.4 - 15 Dec / 2014
+
+	Updated: portfolio featured image. Now you can add a full width
+	Updated: you can protect the portfolio section with a password
+	Updated: you can disable the spin effect on bubbles
+	Updated: you can have the top page without bubbles
+	Updated: you can show the menu bar from the top of the page
+	Updated: query loader plugin
+	Fixed: you can have different number of menu items and bubbles
+	Fixed: tab items shortcode. Now it works also on external pages
+	Fixed: custom hover and active color on menu bar now works
+	Fixed: gallery controls button now work also on mobile
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.6.3 - 09 Oct / 2014
+
+	Updated: button shortcode. Now you can open the link in a new window and position the button on the left, centered or on the right
+	Updated: you can change the "Read more" label for posts
+	Updated: documentation, the Premium section (buttons shortcode)
+	Fixed: background images on tablets and smartphones
+	Fixed: tab items shortcode. Now they aren't cut if you have floated elements
+	Fixed: now you can change the text color of porfolio item
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.6.2 - 09 Sep / 2014
+
+	Updated: font awesome icons to the 4.2.0 version
+	Fixed: tabs navigation on the last version of Chrome now it works
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.6.1 - 01 Aug / 2014
+	Added: vimeo social icon
+	Updated: you can add the featured image in the carousel
+	Updated: you can open portfolio link in a new tab
+	Fixed: the menu on iPad now works correctly
+	Fixed: the instagram social icon now appear for all the staff member
+	Fixed: portfolio secion now works correcty in Internet Explorer 8
+	Fixed: radio buttons and checkboxes now appear in the Contact Form
+	Fixed: the sidebar in the archive post page
+	Fixed: post layout shortcode when the title or the excerpt are too long
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.6 - 05 Jul / 2014
+
+	Added: demo content to start using the theme in the best way
+	Added: drop down menu
+	Added: text area field in the contact section
+	Updated: in the gallery section now you can swipe out images to close them
+	Updated: changed icons in the portfolio item
+	Updated: you can assign multiple categories to a portfolio item
+	Updated: you can change the background color of the blog and external pages
+	Updated: the documentation with the instructions for using the demo content
+	Fixed: improved the user experience on Android devices
+	Fixed: Google Font problem for some users
+	Fixed: now you can insert multiple tab shortcode
+	Fixed: text color in the full width template
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.5.5 - 13 Jun / 2014
+
+	Fixed: warning header messages
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.5.4 - 19 May / 2014
+
+	Added: tumblr and vk social icons
+	Updated: you can open social links in a new window
+	Updated: font awesome icons to the 4.1.0 version
+	Fixed: font in the bubbles now works if you want to change it
+	Fixed: improve the blog layout when you deactivate all post fields (data, tags, author and comments)
+	Fixed: font size of big titles in the mobile version
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.5.3 - 28 Jan / 2014
+
+	Fixed: code in the main template page. Now the portfolio thumb page template works
+	Fixed: remove the shadow in the menu links
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.5.2 - 28 Jan / 2014
+
+	Fixed: code in the main template page.
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.5.1 - 27 Jan / 2014
+
+	Updated: in the portfolio item you can show or not the featured image
+	Updated: the documentation
+	Fixed: tab shortcodes. Now you can have multiple tab shortcodes and the active tab works well (read the documentation)
+	Fixed: the section with the bubbles now works well in IE8
+	Fixed: the control buttons in the portfolio item now appear also in the mobile version
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.5 - 13 Jan / 2014
+
+	Added: retina support
+	Added: shortcodes for font awesome icons and buttons
+	Added: instagram social icon to the contact page and staff members
+	Added: soundcloud integration in the portfolio
+	Added: child theme
+	Added: you can set the background image as fixed
+	Updated: you can choose to display the portfolio item description in the lightbox or under the image (or carousel, or video etc.)
+	Updated: you can choose to display the portfolio item link on the top right or under the image
+	Updated: google fonts now support all the character sets (Cyrillic, Greek, Vietnamese etc.)
+	Updated: you can change the “All” word in the filter portfolio
+	Updated: in the theme options you can choose to have a centered logo
+	Updated: in the theme options you can choose to have a full height home page or not
+	Updated: in the home page you can choose to have bubbles in two rows (when they are six)
+	Updated: removed the limit of 10 pages in General options and updated to 20
+	Updated: documentation and faq section
+
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.4.1 - 18 Dec / 2013
+
+	Fixed: when you set the main background color in Minimable Options, it changes only the main site background (not the blog)
+	Fixed: social icons appear for all staff members
+	Fixed: remove the "auto" title in the tab content, in the tab shortcode
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+
+	Version 1.4 - 18 Dec / 2013
+
+	Added: new shortcodes for create tabbed section and get the latest posts
+	Added: you can add social links for the staff member
+	Updated: you can decide to remove the sidebar. You can also decide to show the excerpt or the content in the archive pages
+	Updated: you can set the speed scroll
+	Updated: added the “Color settings” section in the Minimable Options, where I added the possibility to set also the page background color
+	and the mini slogan color (the one you can see on the top right)
+	Updated: you can have now a minimum number of 2 bubbles (before it was 3)
+	Updated: improved the javascript code
+	Updated: the style in the Minimable Options due to the Wordpress 3.8 new colors
+	Updated: added the information for using the new shortcodes
+	Fixed: the progress bar delay
+	Fixed: all color settings now works
+	Fixed: the images alignment in the posts and pages now works well
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.3 - 04 Dec / 2013
+
+	Added: video tutorial in the support area!
+	Added: new page template “Template External Page” for create external pages (like Terms, privacy, etc.)
+	Updated: the gallery now works better. 	The bars hide and when you move the mouse them appears again
+	Fixed: when you click the mini logo the site scrolls up
+	Fixed: in the portfolio carousel, now you can add portrait images without cropping
+	Fixed: the link of the last page now get highlighted also in higher resolutions
+	Fixed: remove all type of special chars from the anchor. You can also set yours
+	Fixed: now you can add external pages in the bubbles
+	Fixed: the label color of the contact form is white
+	Fixed: sticky footer! now if the page is too short the footer goes to the bottom of the page.
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.2 - 02 Dec / 2013
+
+	Added: now you can customize the font and the size in the bubbles
+	Updated: the documentation now contains the instruction for shortcodes
+	Fixed: update notifications in the dashboard. Now it works
+	Fixed: remove special chars from the anchor (links for menu and bubbles)
+	Fixed: the main color now is applied everywhere
+	Fixed: smooth fade in the buttons applied everywhere
+
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.1.1 - 29 Nov / 2013
+
+	Fixed: big titles
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.1 - 29 Nov / 2013
+
+	Added: in the portfolio item you can choose to have more details or not
+	Updated: theme options with the right information about the documentation
+	Updated: theme options with the field for the “more details” label button
+	Fixed: home page now appears!
+	Fixed: remove the double footer
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
+	Version 1.0 - 27 Nov / 2013
+
+	First Release
+
+	- - - - - - - - - - - - - - - - - - - - - - -
+
